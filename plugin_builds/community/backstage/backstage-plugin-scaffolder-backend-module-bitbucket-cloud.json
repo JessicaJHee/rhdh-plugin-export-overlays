@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-scaffolder-backend-module-bitbucket-cloud": {
+    "workspacePath": "backstage/plugins/scaffolder-backend-module-bitbucket-cloud",
+    "support": "community",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-scaffolder-backend-module-bitbucket-cloud:bs_1.54.6__0.3.10"
+  }
+}

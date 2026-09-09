@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-scaffolder-backend-module-github": {
+    "workspacePath": "backstage/plugins/scaffolder-backend-module-github",
+    "support": "generally-available",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-scaffolder-backend-module-github:bs_1.54.6__0.9.13"
+  }
+}

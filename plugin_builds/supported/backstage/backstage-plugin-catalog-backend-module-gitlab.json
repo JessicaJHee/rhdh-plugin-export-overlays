@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-catalog-backend-module-gitlab": {
+    "workspacePath": "backstage/plugins/catalog-backend-module-gitlab",
+    "support": "generally-available",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-catalog-backend-module-gitlab:bs_1.54.6__0.8.7"
+  }
+}

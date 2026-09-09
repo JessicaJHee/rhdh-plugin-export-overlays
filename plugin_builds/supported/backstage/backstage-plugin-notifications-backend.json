@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-notifications-backend": {
+    "workspacePath": "backstage/plugins/notifications-backend",
+    "support": "tech-preview",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-notifications-backend:bs_1.54.6__0.6.8"
+  }
+}

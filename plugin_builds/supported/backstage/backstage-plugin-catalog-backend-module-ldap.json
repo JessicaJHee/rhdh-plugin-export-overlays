@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-catalog-backend-module-ldap": {
+    "workspacePath": "backstage/plugins/catalog-backend-module-ldap",
+    "support": "generally-available",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-catalog-backend-module-ldap:bs_1.54.6__0.12.8"
+  }
+}

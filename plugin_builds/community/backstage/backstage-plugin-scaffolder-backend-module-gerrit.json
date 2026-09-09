@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-scaffolder-backend-module-gerrit": {
+    "workspacePath": "backstage/plugins/scaffolder-backend-module-gerrit",
+    "support": "community",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-scaffolder-backend-module-gerrit:bs_1.54.6__0.2.24"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-techdocs-module-addons-contrib": {
+    "workspacePath": "backstage/plugins/techdocs-module-addons-contrib",
+    "support": "generally-available",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-techdocs-module-addons-contrib:bs_1.54.6__1.1.39"
+  }
+}

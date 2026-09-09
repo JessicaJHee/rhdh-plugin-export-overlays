@@ -1,0 +1,7 @@
+{
+  "backstage-plugin-kubernetes": {
+    "workspacePath": "backstage/plugins/kubernetes",
+    "support": "tech-preview",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-kubernetes:bs_1.54.6__0.12.22"
+  }
+}

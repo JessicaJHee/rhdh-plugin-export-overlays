@@ -1,0 +1,7 @@
+{
+  "red-hat-developer-hub-backstage-plugin-extensions": {
+    "workspacePath": "extensions/plugins/catalog-backend-module-extensions",
+    "support": "tech-preview",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/red-hat-developer-hub-backstage-plugin-extensions:bs_1.52.1__0.19.1"
+  }
+}
