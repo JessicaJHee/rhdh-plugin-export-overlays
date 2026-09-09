@@ -18,7 +18,7 @@ metadata:
 spec:
   packageName: '@red-hat-developer-hub/backstage-plugin-orchestrator'
   # Tag: bs_1.49.4__5.7.13
-  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/red-hat-developer-hub-backstage-plugin-orchestrator@sha256:8a7ba0ae00a7038261c3b827395f6d2b397a4ae32e36f71207a4c53e7b7ec212"
+  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/red-hat-developer-hub-backstage-plugin-orchestrator@sha256:2de13982a211192142a5a3a4646125524622ecf4fe463ef59f5459c5a7ffd8df"
   version: 5.7.13
   backstage:
     role: frontend-plugin
@@ -36,7 +36,6 @@ spec:
             red-hat-developer-hub.backstage-plugin-orchestrator:
               translationResources:
                 - importName: orchestratorTranslations
-                  module: Alpha
                   ref: orchestratorTranslationRef
               appIcons:
                 - importName: OrchestratorIcon
