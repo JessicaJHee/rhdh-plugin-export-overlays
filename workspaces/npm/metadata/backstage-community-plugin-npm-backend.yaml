@@ -14,8 +14,8 @@ metadata:
   tags: []
 spec:
   packageName: "@backstage-community/plugin-npm-backend"
-  dynamicArtifact: oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-community-plugin-npm-backend:bs_1.54.6__1.25.2
-  version: 1.25.2
+  dynamicArtifact: oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-community-plugin-npm-backend:bs_1.54.6__1.25.3
+  version: 1.25.3
   backstage:
     role: backend-plugin
     supportedVersions: 1.54.6
