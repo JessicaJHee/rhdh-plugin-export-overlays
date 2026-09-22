@@ -1,6 +1,2 @@
-plugins/boost:
-plugins/boost-backend:
-plugins/boost-backend-module-kagenti:
-plugins/boost-backend-module-ogx:
-plugins/kagenti-entity-provider:
 plugins/ogx-entity-provider:
+plugins/ai-catalog:
