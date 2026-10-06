@@ -17,8 +17,8 @@ metadata:
     - analytics
 spec:
   packageName: "@red-hat-developer-hub/backstage-plugin-scorecard-backend-module-jira"
-  # Tag: bs_1.54.6__4.4.1
-  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/red-hat-developer-hub-backstage-plugin-scorecard-backend-module-jira@sha256:53d7b9e5387c44eba55ab2c0e10611e513cdebf3bc7c99f964f2d42fd8ce1367"
+  # Tag: bs_1.54.9__4.4.1
+  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/red-hat-developer-hub-backstage-plugin-scorecard-backend-module-jira@sha256:96fee3e18ab7a456f9a29d1ae4112f6a2be2f98ef161ce0ee7b76759e5bd1d5e"
   version: 4.4.1
   backstage:
     role: backend-plugin-module

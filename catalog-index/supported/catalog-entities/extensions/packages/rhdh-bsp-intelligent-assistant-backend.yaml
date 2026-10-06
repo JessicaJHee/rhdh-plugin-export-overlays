@@ -16,9 +16,9 @@ metadata:
   tags: []
 spec:
   packageName: "@red-hat-developer-hub/backstage-plugin-intelligent-assistant-backend"
-  # Tag: bs_1.54.6__5.3.1
-  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/red-hat-developer-hub-backstage-plugin-intelligent-assistant-backend@sha256:fd9ffe8d487559cd0cdd23da98858359af7cea7f97fcb1d20762efa7604ac6c7"
-  version: 5.3.1
+  # Tag: bs_1.54.9__5.3.6
+  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/red-hat-developer-hub-backstage-plugin-intelligent-assistant-backend@sha256:4a11e7bb5935b51726d0a99d9d1ce15aa86afc20f1ea65ed761db95a5fe80240"
+  version: 5.3.6
   backstage:
     role: backend-plugin
     supportedVersions: 1.54.6
@@ -33,6 +33,9 @@ spec:
         intelligent-assistant:
           # OPTIONAL: Port for intelligent-assistant service (default: 8080)
           servicePort: 8080
+          # OPTIONAL: Enable screen context (page content shared with the assistant)
+          screen-context:
+            enabled: true
           # OPTIONAL: MCP server name and token for MCP servers defined in LCORE config
           # mcpServers:
           #  - name: <mcp server name>
