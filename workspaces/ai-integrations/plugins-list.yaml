@@ -5,3 +5,4 @@ plugins/catalog-backend-module-ai-resource-agent:
 plugins/catalog-backend-module-ai-resource-extensions:
 plugins/kserve-kubeflow-connector-backend:
 plugins/catalog-backend-module-mcp-registry-provider:
+plugins/skill-image-connector-backend:
